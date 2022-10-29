@@ -1,0 +1,10 @@
+# learn-mermaid
+## [Flow Chart](docs/FlowChart.md)
+## [Sequence Diagram](docs/SequenceDiagram.md)
+## [Class Diagram](docs/ClassDiagram.md)
+## [State Diagram](docs/StateDiagram.md)
+## [Gantt Chart](docs/GanttChart.md)
+## [Pie Chart](docs/PieChart.md)
+## [ER Diagram](docs/ERDiagram.md)
+## [User Journey](docs/UserJourney.md)
+## [Git Graph](docs/GitGraph.md)
